@@ -367,3 +367,11 @@ weighted avg       0.61      0.61      0.61       656
 **Sonuç:**
 Veri seti düşük korelasyonlu zor bir yapıya sahip olsa da, Özellik Mühendisliği ve Ortalama ile Doldurma tekniklerini kullanan MLP modeli, bu sınıflandırma problemi için en umut verici sonuçları üretmiştir.
 
+---
+
+### 🔗 Connect with Me
+<a href="https://www.linkedin.com/in/furkan-izmir-017249331/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+*(Click the badge above to visit my profile)*
