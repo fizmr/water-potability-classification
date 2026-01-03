@@ -18,7 +18,9 @@ This repository consolidates two different analytical approaches to tackle the c
 
 ### 2. Dataset & Literature Review
 **Dataset Context:** The dataset consists of 3276 water samples.
+
 **Challenge:** This dataset is known in the machine learning community as "noisy" and "hard to classify" due to the low correlation between features and the target variable.
+
 **Literature Alignment:** Similar studies in the literature typically achieve accuracy scores between **60% and 68%** without data leakage. The results obtained in this project (%62-%64) are consistent with real-world scenarios and literature benchmarks.
 
 ### 3. Key Preprocessing Techniques
@@ -197,7 +199,9 @@ Bu depo, zorlu bir veri setindeki sınıflandırma problemini ele almak için ik
 
 ### 2. Veri Seti ve Literatür Taraması
 **Veri Seti Bağlamı:** Veri seti 3276 su örneğinden oluşmaktadır.
+
 **Zorluk:** Bu veri seti, özellikler ve hedef değişken arasındaki düşük korelasyon nedeniyle makine öğrenimi topluluğunda "gürültülü" ve "sınıflandırılması zor" olarak bilinir.
+
 **Literatür Uyumu:** Literatürdeki benzer çalışmalar, veri sızıntısı olmadan genellikle **%60 ile %68** arasında doğruluk skorları elde etmektedir. Bu projede elde edilen sonuçlar (%62-%64), gerçek dünya senaryoları ve literatür kıyaslamalarıyla tutarlıdır.
 
 ### 3. Temel Ön İşleme Teknikleri
@@ -362,3 +366,4 @@ weighted avg       0.61      0.61      0.61       656
 
 **Sonuç:**
 Veri seti düşük korelasyonlu zor bir yapıya sahip olsa da, Özellik Mühendisliği ve Ortalama ile Doldurma tekniklerini kullanan MLP modeli, bu sınıflandırma problemi için en umut verici sonuçları üretmiştir.
+
