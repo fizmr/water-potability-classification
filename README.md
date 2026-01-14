@@ -1,4 +1,4 @@
-# Water Potability Classification Project/Su İçilebilirliği Sınıflandırma 💧
+# Water Potability Classification Project 💧/ Su İçilebilirliği Sınıflandırma 💧
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit_Learn%20%7C%20XGBoost%20%7C%20CatBoost-orange)
@@ -375,4 +375,5 @@ Veri seti düşük korelasyonlu zor bir yapıya sahip olsa da, Özellik Mühendi
 </a>
 
 *(Click the badge above to visit my profile)*
+
 
